@@ -2,7 +2,7 @@ class EspañoAct2
 {
 public static void main(String[] args) 
 	{
-	    String name = "Kyla Caryl B. Españo", contact = "09123456789", educ = "Undergraduate";
+	    String name = "Ky Españo", contact = "09123456789", educ = "Undergraduate";
 	    int age = 22, minwage = 570; 
 	    char gender = 'F';
 	    double salary = 200.00;
